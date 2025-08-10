@@ -87,7 +87,7 @@ Movies-App/
 
 ## 🚀 Live Demo
 
-- 🔗 [Live View](https://mark-atef.github.io/Rebuilding-a-UI-Using-a-UI-Framework-Movies-Website-/#newsletter)
+- 🔗 [Live View](https://mark-atef.github.io/Rebuilding-a-UI-Using-a-UI-Framework-Movies-Website/)
 
 ---
 
