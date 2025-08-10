@@ -74,16 +74,17 @@ Movies-App/
 ```
 
 
-## Installation
+---
 
-1. Clone the repo:
+## ▶️ How to Run the Project
 
-```bash
-git clone https://github.com/Mark-Atef/Movies-App.git
+1. Clone or download the repository.  
+2. Open the `index.html` file in any modern web browser.  
+3. Start by registering a new account, then login with those credentials.  
 
-Open `index.html` in your browser.
+- 🧾 [Repository](https://github.com/Mark-Atef/Login-Register-System-Using-JavaScript.git)
 
-No additional setup or build tools required as Tailwind is loaded via CDN.
+*No installation or server setup needed — runs entirely in the browser.*
 
 ## 🚀 Live Demo
 
@@ -115,11 +116,6 @@ This project is for **educational purposes only**.
 
 **Thank you for reviewing my project!**  
 — *Mark Yacoub*
-
-
-
-
-
 
 
 
