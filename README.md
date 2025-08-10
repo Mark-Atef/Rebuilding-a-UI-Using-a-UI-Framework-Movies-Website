@@ -81,7 +81,7 @@ Movies-App/
 1. Clone or download the repository.  
 2. Open the `index.html` file in any modern web browser.   
 
-- 🧾 [Repository](https://github.com/Mark-Atef/Login-Register-System-Using-JavaScript.git)
+- 🧾 [Repository](https://github.com/Mark-Atef/Rebuilding-a-UI-Using-a-UI-Framework-Movies-Website-.git)
 
 *No installation or server setup needed — runs entirely in the browser.*
 
